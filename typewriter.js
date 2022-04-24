@@ -1,3 +1,6 @@
+// login: xvrana33 / 227868@vutbr.cz
+// typewriter effect pre h1 na úvodnej časti stránky
+
 var messageArray = ["I'm Bilbo Baggins"];
 var textPosition = 0;
 var speed = 100;
